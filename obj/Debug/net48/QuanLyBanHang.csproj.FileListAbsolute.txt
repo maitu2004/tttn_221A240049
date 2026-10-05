@@ -1,0 +1,11 @@
+C:\Users\maing\Downloads\QuanLyBanHang\bin\Debug\net48\QuanLyBanHang.exe.config
+C:\Users\maing\Downloads\QuanLyBanHang\bin\Debug\net48\QuanLyBanHang.exe
+C:\Users\maing\Downloads\QuanLyBanHang\bin\Debug\net48\QuanLyBanHang.pdb
+C:\Users\maing\Downloads\QuanLyBanHang\obj\Debug\net48\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\maing\Downloads\QuanLyBanHang\obj\Debug\net48\QuanLyBanHang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maing\Downloads\QuanLyBanHang\obj\Debug\net48\QuanLyBanHang.AssemblyInfoInputs.cache
+C:\Users\maing\Downloads\QuanLyBanHang\obj\Debug\net48\QuanLyBanHang.AssemblyInfo.cs
+C:\Users\maing\Downloads\QuanLyBanHang\obj\Debug\net48\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\maing\Downloads\QuanLyBanHang\obj\Debug\net48\QuanLyBanHang.exe
+C:\Users\maing\Downloads\QuanLyBanHang\obj\Debug\net48\QuanLyBanHang.pdb
+C:\Users\maing\Downloads\QuanLyBanHang\obj\Debug\net48\QuanLyBanHang.exe.config
